@@ -6,7 +6,7 @@ import { StatusBar } from '@ionic-native/status-bar';
 
 import { MyApp } from './app.component';
 import { HomePage } from '../pages/home/home';
-import { MagicBall } from '../providers/magic-ball/magic-ball';
+import {MagicBall} from '../providers/magic-ball/magic-ball';
 
 @NgModule({
   declarations: [
